@@ -105,7 +105,7 @@
 8.	[Change the CSS of an Element Using jQuery](https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery) 
 9.	[Disable an Element Using jQuery](https://www.freecodecamp.org/challenges/disable-an-element-using-jquery) 
 10.	[Change Text Inside an Element Using jQuery](https://www.freecodecamp.org/challenges/change-text-inside-an-element-using-jquery) 
-11.[	Remove an Element Using jQuery](https://www.freecodecamp.org/challenges/remove-an-element-using-jquery) 
+11. [	Remove an Element Using jQuery](https://www.freecodecamp.org/challenges/remove-an-element-using-jquery) 
 12.	[Use appendTo to Move Elements with jQuery](https://www.freecodecamp.org/challenges/use-appendto-to-move-elements-with-jquery) 
 13.	[Clone an Element Using jQuery](https://www.freecodecamp.org/challenges/clone-an-element-using-jquery) 
 14.	[Target the Parent of an Element Using jQuery](https://www.freecodecamp.org/challenges/target-the-parent-of-an-element-using-jquery) 
