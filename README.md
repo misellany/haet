@@ -13,5 +13,5 @@ This is my repository for projects I want to share and this is also where I save
 	* [Build a Personal Portfolio Webpage](https://codepen.io/toxxed/full/XpbZWa/)   
 	
 5. [Basic JavaScript](basic-js.md)
-6. JSON APIs and AJAX
+6. [JSON APIs and AJAX](json-ajax.md)
 
