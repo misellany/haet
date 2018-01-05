@@ -1,7 +1,6 @@
 # Hello!
 This is my repository for projects I want to share and this is also where I save my progress in different courses I take to improve my skills in tech and other stuff. 
 
-
 #### Free Code Camp Front-end Development Certification
 
 1. [HTML5 & CSS ](html5-css.md)
@@ -15,3 +14,4 @@ This is my repository for projects I want to share and this is also where I save
 	
 5. [Basic JavaScript](basic-js.md)
 6. JSON APIs and AJAX
+
