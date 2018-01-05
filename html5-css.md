@@ -1,5 +1,6 @@
-## Front-end Development Certification
-#### HTML5 & CSS 
+## HTML5 & CSS
+These are the exercises I completed to refresh my memory on HTML and CSS: 
+ 
 1.	[Learn How freeCodeCamp Works ](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works)
 2.	[Say Hello to HTML Elements](https://www.freecodecamp.org/challenges/say-hello-to-html-elements) 
 3.	[Headline with the h2 Element](https://www.freecodecamp.org/challenges/headline-with-the-h2-element) 
@@ -60,62 +61,3 @@
 58.	[Use Abbreviated Hex Code](https://www.freecodecamp.org/challenges/use-abbreviated-hex-code) 
 59.	[Use RGB values to Color Elements](https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements) 
 60.	[Use RGB to Mix Colors](https://www.freecodecamp.org/challenges/use-rgb-to-mix-colors)
-
-#### Responsive Design with Bootstrap
-1.	[Use Responsive Design with Bootstrap Fluid Containers](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers) 
-2.	[Make Images Mobile Responsive](https://www.freecodecamp.org/challenges/make-images-mobile-responsive) 
-3.	[Center Text with Bootstrap](https://www.freecodecamp.org/challenges/center-text-with-bootstrap) 
-4.	[Create a Bootstrap Button](https://www.freecodecamp.org/challenges/create-a-bootstrap-button) 
-5.	[Create a Block Element Bootstrap Button](https://www.freecodecamp.org/challenges/create-a-block-element-bootstrap-button) 
-6.	[Taste the Bootstrap Button Color Rainbow](https://www.freecodecamp.org/challenges/taste-the-bootstrap-button-color-rainbow) 
-7.	[Call out Optional Actions with Button Info](https://www.freecodecamp.org/challenges/call-out-optional-actions-with-button-info) 
-8.	[Warn your Users of a Dangerous Action](https://www.freecodecamp.org/challenges/warn-your-users-of-a-dangerous-action) 
-9.	[Use the Bootstrap Grid to Put Elements Side By Side](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side) 
-10.	[Ditch Custom CSS for Bootstrap](https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap) 
-11.	[Use Spans for Inline Elements](https://www.freecodecamp.org/challenges/use-spans-for-inline-elements) 
-12.	[Create a Custom Heading](https://www.freecodecamp.org/challenges/create-a-custom-heading) 
-13.	[Add Font Awesome Icons to our Buttons](https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-our-buttons) 
-14.	[Add Font Awesome Icons to all of our Buttons](https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-all-of-our-buttons) 
-15.	[Responsively Style Radio Buttons ](https://www.freecodecamp.org/challenges/responsively-style-radio-buttons)
-16.	[Responsively Style Checkboxes ](https://www.freecodecamp.org/challenges/responsively-style-checkboxes)
-17.	[Style Text Inputs as Form Controls](https://www.freecodecamp.org/challenges/style-text-inputs-as-form-controls) 
-18.	[Line up Form Elements Responsively with Bootstrap](https://www.freecodecamp.org/challenges/line-up-form-elements-responsively-with-bootstrap) 
-19.	[Create a Bootstrap Headline](https://www.freecodecamp.org/challenges/create-a-bootstrap-headline) 
-20.	[House our page within a Bootstrap Container Fluid Div](https://www.freecodecamp.org/challenges/house-our-page-within-a-bootstrap-container-fluid-div) 
-21.	[Create a Bootstrap Row ](https://www.freecodecamp.org/challenges/create-a-bootstrap-row)
-22.	[Split your Bootstrap Row](https://www.freecodecamp.org/challenges/split-your-bootstrap-row) 
-23.	[Create Bootstrap Wells](https://www.freecodecamp.org/challenges/create-bootstrap-wells) 
-24.	[Add Elements within your Bootstrap Wells](https://www.freecodecamp.org/challenges/add-elements-within-your-bootstrap-wells) 
-25.	[Apply the Default Bootstrap Button Style](https://www.freecodecamp.org/challenges/apply-the-default-bootstrap-button-style) 
-26.	[Create a Class to Target with jQuery Selectors](https://www.freecodecamp.org/challenges/create-a-class-to-target-with-jquery-selectors) 
-27.	[Add ID Attributes to Bootstrap Elements](https://www.freecodecamp.org/challenges/add-id-attributes-to-bootstrap-elements) 
-28.	[Label Bootstrap Wells](https://www.freecodecamp.org/challenges/label-bootstrap-wells) 
-29.	[Give Each Element a Unique ID](https://www.freecodecamp.org/challenges/give-each-element-a-unique-id) 
-30.	[Label Bootstrap Buttons](https://www.freecodecamp.org/challenges/label-bootstrap-buttons) 
-31.	[Use Comments to Clarify Code](https://www.freecodecamp.org/challenges/use-comments-to-clarify-code)
-
-#### jQuery
-1.	[Learn how Script Tags and Document Ready Work](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work) 
-2.	[Target HTML Elements with Selectors Using jQuery](https://www.freecodecamp.org/challenges/target-html-elements-with-selectors-using-jquery) 
-3.	[Target Elements by Class Using jQuery](https://www.freecodecamp.org/challenges/target-elements-by-class-using-jquery) 
-4.	[Target Elements by ID Using jQuery](https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery) 
-5.	[Delete your jQuery Functions](https://www.freecodecamp.org/challenges/delete-your-jquery-functions) 
-6.	[Target the same element with multiple jQuery Selectors](https://www.freecodecamp.org/challenges/target-the-same-element-with-multiple-jquery-selectors) 
-7.	[Remove Classes from an element with jQuery](https://www.freecodecamp.org/challenges/remove-classes-from-an-element-with-jquery) 
-8.	[Change the CSS of an Element Using jQuery](https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery) 
-9.	[Disable an Element Using jQuery](https://www.freecodecamp.org/challenges/disable-an-element-using-jquery) 
-10.	[Change Text Inside an Element Using jQuery](https://www.freecodecamp.org/challenges/change-text-inside-an-element-using-jquery) 
-11. [	Remove an Element Using jQuery](https://www.freecodecamp.org/challenges/remove-an-element-using-jquery) 
-12.	[Use appendTo to Move Elements with jQuery](https://www.freecodecamp.org/challenges/use-appendto-to-move-elements-with-jquery) 
-13.	[Clone an Element Using jQuery](https://www.freecodecamp.org/challenges/clone-an-element-using-jquery) 
-14.	[Target the Parent of an Element Using jQuery](https://www.freecodecamp.org/challenges/target-the-parent-of-an-element-using-jquery) 
-15.	[Target the Children of an Element Using jQuery](https://www.freecodecamp.org/challenges/target-the-children-of-an-element-using-jquery) 
-16.	[Target a Specific Child of an Element Using jQuery](https://www.freecodecamp.org/challenges/target-a-specific-child-of-an-element-using-jquery) 
-17.	[Target Even Numbered Elements Using jQuery](https://www.freecodecamp.org/challenges/target-even-numbered-elements-using-jquery) 
-18.	[Use jQuery to Modify the Entire Page](https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page)
-
-#### Basic Front-end Development Projects
-1.	[Get Set for our Front End Development Projects](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects) 
-2.	[Build a Tribute Page](https://codepen.io/toxxed/full/XjowxR/)    
-3.	[Build a Personal Portfolio Webpage](https://codepen.io/toxxed/full/XpbZWa/)    
-
