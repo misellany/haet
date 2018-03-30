@@ -1,0 +1,15 @@
+These are exercises for Object Oriented Programming, A precursor to the Basic Algorithmic Scripting tasks. 
+
+1. [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
+2. [Construct JavaScript Objects with Functions Complete](https://www.freecodecamp.org/challenges/construct-javascript-objects-with-functions)
+3. [Make Instances of Objects with a Constructor Function Complete](https://www.freecodecamp.org/challenges/make-instances-of-objects-with-a-constructor-function)
+4. [Make Unique Objects by Passing Parameters to our Constructor Complete](https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor)
+5. [Make Object Properties Private Complete](https://www.freecodecamp.org/challenges/make-object-properties-private)
+6. [Iterate over Arrays with .map Complete](https://www.freecodecamp.org/challenges/iterate-over-arrays-with-map)
+7. [Condense arrays with .reduce Complete](https://www.freecodecamp.org/challenges/condense-arrays-with-reduce)
+8. [Filter Arrays with .filter Complete](https://www.freecodecamp.org/challenges/filter-arrays-with-filter)
+9. [Sort Arrays with .sort Complete](https://www.freecodecamp.org/challenges/sort-arrays-with-sort)
+10. [Reverse Arrays with .reverse Complete](https://www.freecodecamp.org/challenges/reverse-arrays-with-reverse)
+11. [Concatenate Arrays with .concat Complete](https://www.freecodecamp.org/challenges/concatenate-arrays-with-concat)
+12. [Split Strings with .split Complete](https://www.freecodecamp.org/challenges/split-strings-with-split)
+13. [Join Strings with .join](https://www.freecodecamp.org/challenges/join-strings-with-join)
