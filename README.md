@@ -14,4 +14,6 @@ This is my repository for projects I want to share and this is also where I save
 	
 5. [Basic JavaScript](basic-js.md)
 6. [JSON APIs and AJAX](json-ajax.md)
+7. [Object Oriented & Functional Programming](oopfunc.md)
+8. [Basic Algorithmic Scripting](basicalgo.md)
 
